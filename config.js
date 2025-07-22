@@ -19,8 +19,8 @@ module.exports = {
      {
       name: "LAVALINK",
       password: "foxlaneacademy",
-      host: "194.58.66.44:4475",
-      port:  8262,
+      host: "194.58.66.44",
+      port:  4475,
       secure: false
     }
   ]
