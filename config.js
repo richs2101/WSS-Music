@@ -17,10 +17,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "LAVALINK",
+      name: "Dj Lara",
       password: "foxlaneacademy",
       host: "194.58.66.44",
-      port:  4475,
+      port:  6886,
       secure: false
     }
   ]
