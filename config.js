@@ -19,8 +19,8 @@ module.exports = {
      {
       name: "WSS Music",
       password: "foxlaneacademy",
-      host: "194.58.66.44",
-      port:  6886,
+      host: "5.39.63.207",
+      port:  2613,
       secure: false
     }
   ]
